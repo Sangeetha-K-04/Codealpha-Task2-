@@ -36,7 +36,7 @@ This project proves that **basic Python + logic = real-world utility.**
 
 Here’s a quick look at how the portfolio tracker works in the terminal:
 
-![Portfolio Tracker Demo]()
+![Portfolio Tracker Demo](https://github.com/Sangeetha-K-04/Codealpha-Task2-/blob/main/codealpha%20task2.png?raw=true)
 
 
 ##  ✨ Getting Started
@@ -56,6 +56,20 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/Sangeetha-K-04/Codealpha-Task2-.git
    cd Codealpha-Task2-
+
+## 🌟 Feedback & Contributions
+
+Have suggestions, found a bug, or want to improve this project?  
+Feel free to:
+
+- ⭐ Star this repository to show support  
+- 🛠 Fork the repo and submit a pull request  
+- 🗣 Open an issue if you find something that can be improved  
+- 💬 Share feedback — I’d love to hear from you!
+
+> Contributions of all kinds are welcome and appreciated 🙌
+
+---
 
 
  
